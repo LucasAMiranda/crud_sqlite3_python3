@@ -2,4 +2,4 @@
 workign with database sqlite3 integrated with python3
 
 
-#Com Regis do Python 
+# Com Regis do Python 
